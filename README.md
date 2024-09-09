@@ -8,7 +8,7 @@ v.1.2.0 Update
 - Added 2 new manufacturers: Audi & Peugeot
 
 - Added new cars:
-  - '98 Acura Integra XSi Mugen
+  - '93 Acura Integra XSi Mugen
   - '07 Acura TL Type-S
   - '94 Audi S2
   - '00 Audi TT
