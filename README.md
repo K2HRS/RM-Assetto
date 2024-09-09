@@ -18,7 +18,7 @@ v.1.2.0 Update
   - '07 Chevrolet Corvette C6 Z06
   - '10 Chevrolet Corvette C6 Grand Sport
   - '11 Chevrolet Corvette C6
-  - '86 Ford Escort RS Tyrbo
+  - '86 Ford Escort RS Turbo
   - '06 Ford Mustang GT
   - '89 Honda Cicic SiR (EF9)
   - '91 Honda Civic SiR (EF9)
