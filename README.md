@@ -1,6 +1,29 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.2.1 Update
+
+- Added 2 new manufacturers: Alfa Romeo & Fiat
+
+- Added new cars:
+  - '86 Alfa Romeo Spider Quadrifoglio
+  - '89 Alfa Romeo SZ
+  - '99 Ferrari 360 Modena
+  - '96 Ferrari 550 Maranello
+  - '03 Ferrari 575 Maranello
+  - '96 Fiat Coupe 20V Turbo
+  - '00 Fiat Coupe 20V Turbo
+  - '08 Lamborghini Gallardo LP560-4
+  - '10 Lamborghini Murciélago LP670-4 SV
+  - '11 Lexus LFA
+  - '96 ɛ̃fini RX-7 Type RB (FD)
+  - '96 ɛ̃fini RX-7 Type RB Bathurst (FD)
+  - '96 ɛ̃fini RX-7 Type RS (FD)
+  - '96 ɛ̃fini RX-7 Type RS-R (FD)
+  - '96 ɛ̃fini RX-7 Type RZ (FD)
+  - '97 ɛ̃fini RX-7 Type RB Bathurst X (FD)
+  - '04 Opel Speedster Turbo
+
 v.1.2.0 Update
 
 - Added "Tracks" section with 58 tracks.
