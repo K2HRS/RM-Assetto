@@ -26,7 +26,7 @@ v.1.2.1 Update
 
 v.1.2.0 Update
 
-- Added "Tracks" section with 58 tracks.
+- Added "Tracks" section with 58 tracks
 
 - Added 2 new manufacturers: Audi & Peugeot
 
