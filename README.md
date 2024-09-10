@@ -43,7 +43,7 @@ v.1.2.0 Update
   - '11 Chevrolet Corvette C6
   - '86 Ford Escort RS Turbo
   - '06 Ford Mustang GT
-  - '89 Honda Cicic SiR (EF9)
+  - '89 Honda Civic SiR (EF9)
   - '91 Honda Civic SiR (EF9)
   - '99 Honda Civic Type-R (EK9)
   - '99 Honda Civic Type-R Mugen (EK9)
