@@ -1,6 +1,21 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.2.2 Update
+
+- Added new cars:
+  - '78 Fiat X1/9
+  - '02 Lexus SC430 (Z40)
+  - '90 Mazda RX-7 GT-X (FC)
+  - '91 Nissan 240SX (S13)
+  - '91 Nissan 240SX Tuned (S13)
+  - '04 Pontiac GTO
+  - '05 Pontiac GTO
+  - '72 Porsche 911 Carrera RS (911)
+  - '73 Porsche 911 Carrera RS (911)
+  - '88 Porsche 911 Carrera (911)
+  - '94 Toyota Soarer (Z30)
+    
 v.1.2.1 Update
 
 - Added 2 new manufacturers: Alfa Romeo & Fiat
