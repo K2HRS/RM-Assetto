@@ -1,6 +1,18 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.2.3 Update
+
+- Added new cars:
+
+  - '83 BMW M635 CSi (E24)
+  - '95 Chevrolet Corvette C4 ZR-1
+  - '88 Chevrolet Monte Carlo
+  - '03 Mitsubishi Eclipse Spyder
+  - '07 Nissan GT-R (R35)
+  - '95 Toyota MR2 GT (SW20)
+ 
+    
 v.1.2.2 Update
 
 - Added new cars:
