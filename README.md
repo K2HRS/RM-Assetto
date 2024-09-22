@@ -4,8 +4,7 @@ Assetto Corsa mod database.
 v.1.2.2 Update
 
 - Added new cars:
-
-   - '78 Fiat X1/9
+  - '78 Fiat X1/9
   - '02 Lexus SC430 (Z40)
   - '90 Mazda RX-7 GT-X (FC)
   - '91 Nissan 240SX (S13)
