@@ -19,7 +19,7 @@ v.1.2.4 Update
   - '88 Honda Prelude Si Modded
   - '97 Lexus SC300
   - '03 Mazda Familia Mazdaspeed
-  - '95 Mazdam RX-7 GSL-SE Modded
+  - '95 Mazda RX-7 GSL-SE Modded
   - '04 Mazda RX-8
   - '98 Mitsubishi Lancer Evolution V GSR
   - '06 Mitsubishi Lancer Evolution IX MR
