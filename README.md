@@ -1,7 +1,7 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
-v.1.2.3 Update
+v.1.2.4 Update
 
 - Added new cars:
 
