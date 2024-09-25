@@ -5,13 +5,49 @@ v.1.2.3 Update
 
 - Added new cars:
 
+  - '93 BMW 3 Series 328i (E36)
+  - '02 BMW Z3 (E36/8)
+  - '01 BMW Z8
+  - '03 BMW Z8
+  - '03 BMW Z8 Spec II
+  - '91 Eunos Roadster (NA6)
+  - '97 Eunos Roadster (NA8)
+  - '87 Honda Civic (ED3)
+  - '94 Honda Civic LX (EG8)
+  - '00 Honda Civic Ferio Vi-RS (EK3)
+  - '88 Honda Prelude Si 4WS
+  - '88 Honda Prelude Si Modded
+  - '97 Lexus SC300
+  - '03 Mazda Familia Mazdaspeed
+  - '95 Mazdam RX-7 GSL-SE Modded
+  - '04 Mazda RX-8
+  - '98 Mitsubishi Lancer Evolution V GSR
+  - '06 Mitsubishi Lancer Evolution IX MR
+  - '96 Nissan 180SX Type-X (S13)
+  - '87 Nissan 300ZX (Z31)
+  - '08 Nissan 370Z Nismo (Z34)
+  - '12 Nissan 370Z (Z34)
+  - '20 Nissan 370Z (Z34)
+  - '23 Nissan 400Z (RZ34)
+  - '88 Nissan Silvia K's (S13)
+  - '02 Nissan Silvia Spec-R (S15)
+  - '96 Nissan Skyline GT-R Nismo 400R (R33)
+  - '21 Subaru BRZ
+  - '94 Toyota Celica GT-FOUR (ST205)
+  - '16 Toyota GT86
+  - '21 Toyota GR86
+
+
+v.1.2.3 Update
+
+- Added new cars:
+
   - '83 BMW M635 CSi (E24)
   - '95 Chevrolet Corvette C4 ZR-1
   - '88 Chevrolet Monte Carlo
   - '03 Mitsubishi Eclipse Spyder
   - '07 Nissan GT-R (R35)
   - '95 Toyota MR2 GT (SW20)
- 
     
 v.1.2.2 Update
 
