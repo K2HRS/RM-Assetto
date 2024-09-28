@@ -1,6 +1,76 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.2.5 Update
+
+- Added 5 new manufacturers: Buick, Jaguar, Maserati, Renault/Apline, & Venturi
+
+- Added new cars:
+  - '61 Alpine A110 1600S
+  - '17 Alpine A110
+  - '90 Alpine GTA Le Mans
+  - '90 Chevrolet Camaro IROC-Z
+  - '94 Honda Civic VTi (EG6)
+  - '93 Jaguar XJ220
+  - '86 Jaguar XJS
+  - '98 Jaguar XKR Coupe
+  - '98 Jaguar XKR Convertible
+  - '88 Lamborghini Countach 25th Anniversary Edition
+  - '83 Lamborghini Countach Turbo S
+  - '05 Lamborghini Gallardo
+  - '71 Lamborghini Jarama S
+  - '01 Lamborghini Murciélago
+  - '06 Lamborghini Murciélago
+  - '76 Lamborghini Urraco
+  - '70 Lotus Elan Sprint
+  - '11 Lotus Elise
+  - '13 Lotus Elise S 220
+  - '08 Lotus Elise SC
+  - '73 Lotus Europa Special
+  - '74 Maserati Bora
+  - '96 Maserati Ghibli Cup
+  - '77 Maserati Khamsin
+  - '90 Mazda 323F
+  - '13 Mazda MX-5 (NC)
+  - '19 Mazda MX-5 (ND)
+  - '89 Mazda RX-7 Turbo II (FC)
+  - '07 Mazda RX-8 Type S
+  - '69 Opel GT 1900
+  - '90 Peugeot 205 GTI
+  - '85 Peugeot 205 Turbo 16
+  - '98 Peugeot 306 XS
+  - '80 Renault 5 Turbo
+  - '80 Renault 5 Turbo R
+  - '81 Renault 5 Turbo
+  - '93 Renault Clio 16V
+  - '94 Renault Clio Williams
+  - '95 Renault Mégane Coupe 16V
+  - '00 Renault Sport Clio V6
+  - '03 Renault Sport Clio V6
+  - '95 Renault Twingo
+  - '02 Subaru Impreza WRX (GGA)
+  - '07 Subaru Impreza WRX Sti (GDB)
+  - '02 Subaru Impreza WRX STi Prodrive (GDB)
+  - '91 Suzuki Cappuccino
+  - '94 Suzuki Cappuccino
+  - '94 Venturi 260 LM
+  - '95 Volkswagen Corrado VR6
+  - '95 Volkswagen Gol GTI
+  - '74 Volkswagen Golf Cabriolet
+  - '83 Volkswagen Golf GTI Mk1
+  - '90 Volkswagen Golf GTI Mk2
+  - '92 Volkswagen Golf GTI Mk3
+  - '95 Volkswagen Golf GTI Mk3
+  - '90 Volkswagen Golf GTI 16V Mk2
+  - '89 Volkswagen Golf Rallye Eye Mk2
+  - '95 Volkswagen Golf VR6 Mk3
+  - '88 Volkswagen Passat Pointer
+  - '91 Volkswagen Polo G40
+  - '81 Volkswagen Scirocco
+  - '88 Volkswagen Scirocco GTX 16V
+  - '86 Volkswagen Voyage
+  - '83 Volvo 240
+  
 v.1.2.4 Update
 
 - Added new cars:
