@@ -14,8 +14,8 @@ v.1.2.5 Update
   - '94 Honda Civic VTi (EG6)
   - '93 Jaguar XJ220
   - '86 Jaguar XJS
-  - '98 Jaguar XKR Coupe
-  - '98 Jaguar XKR Convertible
+  - '98 Jaguar XKR Coupe (X100)
+  - '98 Jaguar XKR Convertible (X100)
   - '88 Lamborghini Countach 25th Anniversary Edition
   - '83 Lamborghini Countach Turbo S
   - '05 Lamborghini Gallardo
