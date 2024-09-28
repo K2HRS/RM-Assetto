@@ -3,7 +3,7 @@ Assetto Corsa mod database.
 
 v.1.2.5 Update
 
-- Added 5 new manufacturers: Buick, Jaguar, Maserati, Renault/Apline, & Venturi
+- Added 5 new manufacturers: Buick, Jaguar, Maserati, Renault/Alpine, & Venturi
 
 - Added new cars:
   - '61 Alpine A110 1600S
