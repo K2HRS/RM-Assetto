@@ -9,6 +9,7 @@ v.1.2.5 Update
   - '61 Alpine A110 1600S
   - '17 Alpine A110
   - '90 Alpine GTA Le Mans
+  - '87 Buick GNX
   - '90 Chevrolet Camaro IROC-Z
   - '94 Honda Civic VTi (EG6)
   - '93 Jaguar XJ220
