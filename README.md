@@ -50,7 +50,7 @@ v.1.2.5 Update
   - '03 Renault Sport Clio V6
   - '95 Renault Twingo
   - '02 Subaru Impreza WRX (GGA)
-  - '07 Subaru Impreza WRX Sti (GDB)
+  - '07 Subaru Impreza WRX STi (GDB)
   - '02 Subaru Impreza WRX STi Prodrive (GDB)
   - '91 Suzuki Cappuccino
   - '94 Suzuki Cappuccino
