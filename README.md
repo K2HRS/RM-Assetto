@@ -3,6 +3,9 @@ Assetto Corsa mod database.
 
 v.1.2.6 Update
 
+- Added new tracks:
+  - Tail of the Dragon
+
 - Added 1 new manufacturer: Lancia
 
 - Added new cars:
