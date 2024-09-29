@@ -1,6 +1,22 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.2.6 Update
+
+- Added 1 new manufacturer: Lancia
+
+- Added new cars:
+  - '95 Ferrari F50
+  - '93 Honda Civic SiR-II (EG6)
+  - '06 Mitsubishi Lancer Evolution IX MR GSR
+  - '15 Mitsubishi Lancer Evolution X FE
+  - '99 Nissan Silvia Spec-R Aero (S15)
+  - '02 Nissan Silvia Spec-R Aero (S15)
+  - '99 Nissan Silvia Spec-S Aero (S15)
+  - '82 Lancia 037 Stradale
+  - '84 Lancia Delta S4 Stradale
+  - '73 Lancia Stratos HF Stradale
+    
 v.1.2.5 Update
 
 - Added 5 new manufacturers: Buick, Jaguar, Maserati, Renault/Alpine, & Venturi
