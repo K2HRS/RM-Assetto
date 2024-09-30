@@ -16,6 +16,9 @@ v.1.3.0 Update
  
 - Alpine, Autozam, ɛ̃fini, & Eunos are now listed as their own manufacturers instead of Renault & Mazda respectively.
 
+- Added new cars:
+  - '15 Toyota GT86 (Carlos)
+    
 v.1.2.6 Update
 
 - Added new tracks:
