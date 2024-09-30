@@ -14,7 +14,7 @@ v.1.3.0 Update
    - SS (401-490hp)
    - X (491hp+)
  
-- Alpine, ɛ̃fini, & Eunos are now listed as their own manufacturers instead of Renault & Mazda respectively.
+- Alpine, Autozam, ɛ̃fini, & Eunos are now listed as their own manufacturers instead of Renault & Mazda respectively.
 
 v.1.2.6 Update
 
