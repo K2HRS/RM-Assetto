@@ -4,6 +4,7 @@ Assetto Corsa mod database.
 v.1.3.0 Update
 
 - Reclassed all of the cars. There are now 8 classes:
+   
    - E (1-115hp)
    - D (116-160hp)
    - C (161-210hp)
