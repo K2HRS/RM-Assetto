@@ -1,6 +1,18 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.3.0 Update
+
+- Reclassed all of the cars. There are now 8 classes:
+   - E (1-115hp)
+   - D (116-160hp)
+   - C (161-210hp)
+   - B (211-260hp)
+   - A (261-310hp)
+   - S (311-400hp)
+   - SS (401-490hp)
+   - X (491+)
+
 v.1.2.6 Update
 
 - Added new tracks:
