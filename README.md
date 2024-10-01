@@ -1,6 +1,46 @@
 # RM-Assetto
 Assetto Corsa mod database.
 
+v.1.3.1 Update
+
+- Changed the horsepower ranges for SS and X classes. SS is now 401-499hp and X is 500hp+
+- Seperated Nisssan 180SX and Nissan 240SX into their own sections.
+- Changed the names of right-hand-drive 300ZX, 350Z, & 370Z to Fairlady Z.
+- Added Fairlady Z to the titles of the 300ZX, 350Z, and 370Z sections.
+
+- Added new cars:
+  - '95 Dodge Viper RT/10 (SR I)
+  - '96 Dodge Viper GTS (SR II)
+  - '99 Dodge Viper GTS ACR (SR II)
+  - '03 Dodge Viper SRT-10 (ZB I)
+  - '08 Dodge Viper SRT-10 (ZB II)
+  - '91 ɛ̃fini RX-7 A-Spec (FD)
+  - '93 ɛ̃fini RX-7 Type R (Keisuke Takahashi) (FD)
+  - '05 Ford GT
+  - '94 Ford Mustang GT
+  - '95 Ford Mustang SVT Cobra
+  - '95 Ford Mustang SVT Sobra R
+  - '00 Ford Mustang Saleen S-281
+  - '00 Ford Mustang SVT Cobra R
+  - '98 Honda Civic Type-R (EK9)
+  - '99 Honda Civic Type-R Mugen Type SS (EK9)
+  - '04 Honda Civic Type-R (EP3)
+  - '11 Honda CR-Z
+  - '15 Honda S660
+  - '68 Mazda Cosmo Sport
+  - '90 Mazda RX-7 Infini IV A-Spec (FC)
+  - '95 Nissan Fairlady Z Nismo (Z32)
+  - '05 Nissan Fairlady Z Roadster
+  - '08 Nissan Fairlady Z Version ST (Z34)
+  - '90 Nissan Skyline GT-R Nismo (R32)
+  - '94 Nissan Skyline GT-R V•Spec II (R32)
+  - '89 Nissan Laurel (C33)
+  - '98 Toyota Chaser Tourer V (JZX100)
+  - '96 Toyota Cresta Tourer V (JZX90)
+  - '88 Toyota Mark II (X81)
+  - '97 Toyota Mark II Grande (JZX100)
+  - '92 Toyota Supra GT Twin Turbo (JZA70)
+   
 v.1.3.0 Update
 
 - Reclassed all of the cars. There are now 8 classes:
