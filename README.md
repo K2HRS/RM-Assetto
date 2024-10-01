@@ -19,7 +19,7 @@ v.1.3.1 Update
   - '05 Ford GT
   - '94 Ford Mustang GT
   - '95 Ford Mustang SVT Cobra
-  - '95 Ford Mustang SVT Sobra R
+  - '95 Ford Mustang SVT Cobra R
   - '00 Ford Mustang Saleen S-281
   - '00 Ford Mustang SVT Cobra R
   - '98 Honda Civic Type-R (EK9)
