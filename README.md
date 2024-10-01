@@ -3,7 +3,7 @@ Assetto Corsa mod database.
 
 v.1.3.1 Update
 
-- Changed the horsepower ranges for SS and X classes. SS is now 401-499hp and X is 500hp+
+- Changed the horsepower ranges for SS and X classes. SS is now 401-499hp and X is 500hp+.
 - Seperated Nisssan 180SX and Nissan 240SX into their own sections.
 - Changed the names of right-hand-drive 300ZX, 350Z, & 370Z to Fairlady Z.
 - Added Fairlady Z to the titles of the 300ZX, 350Z, and 370Z sections.
